@@ -60,11 +60,3 @@ Ce projet a pour but de guider un administrateur système réseau à devenir un 
 
 ## Instructions supplémentaires
 Les exercices peuvent être réalisés dans l'ordre proposé ou adaptés selon les besoins. Chaque exercice comprend un fichier détaillé avec des étapes et des conseils pour approfondir les connaissances.
-"""
-
-readme_file_path = '/mnt/data/README_DevOps.md'
-
-with open(readme_file_path, 'w') as file:
-    file.write(readme_devops_content)
-
-readme_file_path
