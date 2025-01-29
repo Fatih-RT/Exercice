@@ -18,7 +18,6 @@ Ce projet a pour but de guider un administrateur système réseau à devenir un 
     - exercice_1.md
     - exercice_2.md
     - ...
-  - scripts/
 ```
 
 ## Exercices
@@ -50,8 +49,8 @@ Ce projet a pour but de guider un administrateur système réseau à devenir un 
 ### 9. **Supervision des logs avec ELK Stack**  
    Objectif : Déployer Elasticsearch, Logstash et Kibana pour centraliser et visualiser les logs système.
 
-### 10. **Gestion des versions d'applications avec Kubernetes**  
-    Objectif : Déployer une application sur un cluster Kubernetes, configurer des mises à jour continues (rolling updates).
+### 10. **Gestion des versions d'applications avec Kubernetes** 
+   Objectif : Déployer une application sur un cluster Kubernetes, configurer des mises à jour continues (rolling updates).
 
 ## Ressources
 - Documentation officielle Docker : [docker.com/docs](https://www.docker.com/docs)
