@@ -19,7 +19,6 @@ Ce projet a pour but de guider un administrateur système réseau à devenir un 
     - exercice_2.md
     - ...
   - scripts/
-  - docs/
 ```
 
 ## Exercices
