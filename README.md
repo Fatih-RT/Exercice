@@ -1,5 +1,7 @@
 # Projet : Transition d'Administrateur Système Réseau à DevOps
 
+### Ce repo sera à jour régulièrement et montrera mon avancement
+
 ## Objectif
 Ce projet a pour but de guider un administrateur système réseau à devenir un ingénieur DevOps en passant par une série de 10 exercices pratiques. Chaque exercice couvre une compétence clé nécessaire pour ce rôle.
 
